@@ -1,0 +1,19 @@
+.move {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    user-select: none;
+    display: block;
+}
+
+.att1 {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    user-select: none;
+}
+
+.att2 {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    user-select: none;
+}
